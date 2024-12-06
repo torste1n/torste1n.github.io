@@ -1,7 +1,7 @@
 ![Alt text](background.png)
 
-##### Paper 1
+# Paper 1
 ![Alt text](Poster_Debarkation.png)
 
-##### Paper 2
+# Paper 2
 ![Alt text](Summary_Reinforcing.png)
